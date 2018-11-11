@@ -1,0 +1,2 @@
+DB_PATH: '/home/lyonn/lab/myProjects/pywebtoring/db/'
+DB_NAME: 'pywebtoring_store.db'
